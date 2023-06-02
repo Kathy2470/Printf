@@ -10,7 +10,7 @@
  * @width: Width value
  * @precision: Precision value
  * @size: Size specifier
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: Number of characters printed or error code
  */
 int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
