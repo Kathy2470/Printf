@@ -3,7 +3,7 @@
 /**
  * is_printable - Checks if a character is printable
  * @c: The character to be evaluated
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: 1 if c is printable, 0 otherwise
  */
 int is_printable(char c)
@@ -19,7 +19,7 @@ int is_printable(char c)
  * @buffer: Array of characters
  * @i: Index at which to start appending
  * @ascii_code: ASCII code
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: Always 3
  */
 int append_hexa_code(char ascii_code, char buffer[], int i)
@@ -41,7 +41,7 @@ int append_hexa_code(char ascii_code, char buffer[], int i)
 /**
  * is_digit - Checks if a character is a digit
  * @c: The character to be evaluated
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: 1 if c is a digit, 0 otherwise
  */
 int is_digit(char c)
@@ -56,7 +56,7 @@ int is_digit(char c)
  * convert_size_number - Casts a number to the specified size
  * @num: The number to be casted
  * @size: The size indicating the type to be casted
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: The casted value of num
  */
 long int convert_size_number(long int num, int size)
@@ -73,7 +73,7 @@ long int convert_size_number(long int num, int size)
  * convert_size_unsgnd - Casts a number to the specified size
  * @num: The number to be casted
  * @size: The size indicating the type to be casted
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: The casted value of num
  */
 long int convert_size_unsgnd(unsigned long int num, int size)
