@@ -3,7 +3,7 @@
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned - Prints an unsigned number
- happy happy ayo mukisa Kathylene
+ * happy ayo mukisa Kathylene
  * @types: List of arguments
  * @buffer: Buffer array to handle print
  * @flags: Calculates active flags
