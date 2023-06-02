@@ -4,7 +4,7 @@
  * get_size - Calculates the size to cast the argument
  * @format: Formatted string in which to print the arguments
  * @i: Pointer to the current position in the format string
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: Size specifier value
  */
 int get_size(const char *format, int *i)
