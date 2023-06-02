@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * team project happy ayo mukisa kathylene
+ * team project (happy ayo mukisa kathylene
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
