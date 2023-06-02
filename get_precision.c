@@ -5,7 +5,7 @@
  * @format: Formatted string in which to print the arguments
  * @i: Pointer to the current position in the format string
  * @list: List of arguments
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: Precision value
  */
 int get_precision(const char *format, int *i, va_list list)
