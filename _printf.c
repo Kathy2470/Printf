@@ -5,7 +5,7 @@ void print_buffer(char buffer[], int *buff_ind);
 /**
  * _printf - Custom printf function
  * @format: Format string
- *
+ * team project by happy ayo mukisa kathylene
  * Return: Number of printed characters
  */
 int _printf(const char *format, ...)
