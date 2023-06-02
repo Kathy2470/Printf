@@ -4,7 +4,7 @@
  * get_flags - Calculates active flags
  * @format: Formatted string in which to print the arguments
  * @i: Pointer to the current position in the format string
- *
+ * team project by happy ayo & mukisa kathylene
  * Return: Flags indicating the active formatting options
  */
 int get_flags(const char *format, int *i)
